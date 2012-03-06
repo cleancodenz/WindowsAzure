@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListApp", "ToDoListApp\ToDoListApp.csproj", "{F34371E4-AFB3-408F-AEBB-0595BC68508E}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "ToDoListApp.Azure", "ToDoListApp.Azure\ToDoListApp.Azure.ccproj", "{197AE372-FB74-4189-A61C-4A3C32475A6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F34371E4-AFB3-408F-AEBB-0595BC68508E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34371E4-AFB3-408F-AEBB-0595BC68508E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34371E4-AFB3-408F-AEBB-0595BC68508E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34371E4-AFB3-408F-AEBB-0595BC68508E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197AE372-FB74-4189-A61C-4A3C32475A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197AE372-FB74-4189-A61C-4A3C32475A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197AE372-FB74-4189-A61C-4A3C32475A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197AE372-FB74-4189-A61C-4A3C32475A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
